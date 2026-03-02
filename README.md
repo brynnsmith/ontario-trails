@@ -19,12 +19,5 @@ Deployment | Vercel
 
 Data source: Ontario GeoHub — OTN Segment & Access Point Feature Services (public ArcGIS REST API, no key required)
 
-<<<<<<< HEAD
-## Data Attribution
-
-Trail data sourced from the Ontario Trail Network (OTN), published by the Ontario Ministry of Natural Resources & Forestry under the Open Government Licence – Ontario.
-
-=======
 Data Attribution
 Trail data sourced from the Ontario Trail Network (OTN), published by the Ontario Ministry of Natural Resources & Forestry under the Open Government Licence – Ontario
->>>>>>> 59d01a8 (Updated README.md)
