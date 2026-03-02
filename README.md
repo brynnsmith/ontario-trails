@@ -1,7 +1,5 @@
 # ontario-trails
 
-Interactive map of hiking trails in Ontario.
-
 A personal hiking tracker for Ontario trails, built on the Ontario Trail Network (OTN) open dataset. Explore thousands of trails across the province on an interactive map, log your hikes, attach notes and photos, and build a wish list of trails you want to tackle next.
 
 ## Tech Stack
