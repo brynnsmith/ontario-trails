@@ -1,4 +1,4 @@
-# ontario-trails
+# Ontario-Trails
 
 A personal hiking tracker for Ontario trails, built on the Ontario Trail Network (OTN) open dataset. Explore thousands of trails across the province on an interactive map, log your hikes, attach notes and photos, and build a wish list of trails you want to tackle next.
 
@@ -19,3 +19,10 @@ Data source: Ontario GeoHub — OTN Segment & Access Point Feature Services (pub
 
 Data Attribution
 Trail data sourced from the Ontario Trail Network (OTN), published by the Ontario Ministry of Natural Resources & Forestry under the Open Government Licence – Ontario
+
+## Functionality
+
+Discover and search hiking trails
+Add trails to your favourites
+Keep a record of Trails Hiked
+Plan future hikes
